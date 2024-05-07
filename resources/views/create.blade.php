@@ -69,13 +69,19 @@
             </div>
         </main>
 
-        <footer class="my-5 pt-5 text-muted text-center text-small">
-            <p class="mb-1">© 2017–2021 Company Name</p>
-            <ul class="list-inline">
-                <li class="list-inline-item"><a href="#">Privacy</a></li>
-                <li class="list-inline-item"><a href="#">Terms</a></li>
-                <li class="list-inline-item"><a href="#">Support</a></li>
-            </ul>
+        <footer class="pt-4 my-md-5 pt-md-5 border-top">
+
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col">Created By Kelompok 6 TI-A 2022</div>
+
+                    <div class="col text-end">
+                        designed by
+                        K6 WEBPRO-2 2024 and Bootstrap 5
+                    </div>
+                </div>
+            </div>
+
         </footer>
     </div>
 
